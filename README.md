@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bhattkashish322@gmail.com**
 
-- ⚡ Fun fact **I love music and singing :)**
+- ⚡ Fun fact **I love music and singing**
 
 
 <!-- Second GIF below the first --->
