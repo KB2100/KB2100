@@ -1,6 +1,6 @@
 ![logo](https://github.com/KB2100/KB2100/blob/main/Banner001.png)
 
-<h1 align="center">Hi 👋, I'm Kashish Bhatt!</h1>
+<h1 align="center">Hi 👋, I'm Kashish Bhatt.</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/JXA0.gif">
